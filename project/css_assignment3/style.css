@@ -1,4 +1,7 @@
-
+* {
+    /*cool property- dont need to check what is padding etc...*/
+    box-sizing:border-box;
+}
 .item{
     margin-top:5px;
     outline: dotted blue;

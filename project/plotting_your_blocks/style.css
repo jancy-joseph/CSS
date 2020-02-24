@@ -34,7 +34,8 @@
     background-color: yellow;
    }
    #advertisement{
-    min-height: 120px;
+       text-align: center;
+    min-height: 10px;
     width: 660px;
     background-color: purple;
    }
