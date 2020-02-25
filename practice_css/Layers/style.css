@@ -1,0 +1,178 @@
+/* body *{
+    outline:1px solid pink;
+} */
+div.Container_class{
+    width:980px;
+    min-height: 600px;
+    background-color: lightblue;
+    margin:0px auto;
+}
+header{
+    min-height: 150px;
+   background-color:darkcyan;
+}
+
+header div.section1{
+    vertical-align: top;
+    width:300px;
+    display:inline-block;
+    text-align:center;
+    min-height: 150px;
+   /* background-color:yellowgreen;*/
+
+}
+header div.section1 h1{
+    margin-bottom: 0px;
+    padding-bottom: 8px;}
+header div.section1 h6{
+    margin-top:0px;
+    padding-top:8px;
+}
+header div.section2 {
+    vertical-align: top;
+    text-align:center;
+
+    width:650px;
+   /* background-color:rebeccapurple;*/
+    display:inline-block;
+    min-height: 150px;
+
+}
+header div.section2 ul {
+   /* background-color:fuchsia;*/
+    display:inline-block;
+
+}
+header div.section2 ul li{
+    padding-left: 10px;
+    margin:2px;
+   /* background-color:goldenrod;*/
+    display:inline-block;
+
+}
+header div.section2 ul li a{
+    text-decoration: none;
+    color:black;
+
+}
+main{
+    text-align: center;
+    min-height: 100px;
+   /* background-color: cornflowerblue;*/
+
+} 
+div.Container_class div.bottom div.message{
+    vertical-align: top;
+  /*  background-color: coral;*/
+    display:inline-block;
+    width:280px;
+    min-height: 320px;
+    margin:5px;
+    padding:10px;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+div.Container_class div.bottom div.message img{
+    width:100px;
+    height:100px;
+}
+div.Container_class div.bottom div.message a{
+    background-color: darkcyan;
+    padding:10px;
+    border:1px;
+    color:white;
+    text-decoration: none;
+    display: block;
+
+}
+
+/* div.Container_class header div.section1{
+
+    width:300px;
+    display:inline-block;
+    text-align:center;
+    background-color:yellowgreen;
+}
+div.Container_class header div.section2{
+    text-align:center;
+    display:inline-block;
+    background-color: teal;
+
+}
+div.Container_class header div.section2 ul{
+    text-align:center;
+    display:inline-block;
+    background-color:rebeccapurple;
+
+}
+div.Container_class header div.section2 ul li{
+    text-align:center;
+    display:inline-block;
+    background-color:burlywood;
+
+} 
+*/
+
+/*footer{
+    display:inline-block;
+    background-color: aquamarine;
+    
+}
+ footer.footer1{
+    display:inline-block;
+
+    vertical-align: top;
+}
+footer.footer1{
+    display:inline-block;
+
+    vertical-align: top;
+}
+
+footer.footer1 ul{
+
+    display:inline-block;
+
+}
+footer ul .footer1 img{
+    background-color: blue;
+    width:100px;
+    height:100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+} 
+
+header .section1 h1{
+    margin-bottom: 0px;
+    padding-bottom: 8px;
+}
+header .section1 h6{
+    margin-top:0px;
+    padding-top:8px;
+}
+*/
+
+
+/*
+ 
+header .section1 h1{
+    margin-bottom: 0px;
+    padding-bottom: 8px;
+}
+header .section1 h6{
+    margin-top:0px;
+    padding-top:8px;
+}
+
+header .section2 {
+    width:500px;
+    display:inline-block;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+ */
